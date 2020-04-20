@@ -1,2 +1,1 @@
-# Fuse box vw Jetta Classic
-## Fuse box vw jetta classic diagram
+# Caja de fusibles, vw Jetta Clásico
